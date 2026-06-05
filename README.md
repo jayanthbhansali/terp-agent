@@ -136,4 +136,3 @@ The dummy API mirrors the real UMD surfaces 1:1 so that replacing each router is
 | `travel.py`      | MTA Maryland + Amtrak + Google Places |
 
 Each router has a `# TODO: real integration` block showing which endpoint to call.
-# terp-agent
